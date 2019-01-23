@@ -6,3 +6,5 @@
 /.eggs/
 /.mypy_cache/
 /model/
+/model_200_0.95
+/training-log.csv

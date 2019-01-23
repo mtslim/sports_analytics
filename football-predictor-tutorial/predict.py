@@ -4,7 +4,7 @@ import tensorflow as tf
 import numpy as np
 import csv
 
-TRAINING_SET_FRACTION = 0.95
+TRAINING_SET_FRACTION = 0.75
 
 
 def main(argv):
